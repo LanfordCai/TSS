@@ -56,3 +56,5 @@ replace github.com/agl/ed25519 => github.com/binance-chain/edwards25519 v0.0.0-2
 replace github.com/bnb-chain/tss-lib => ../mpc/binance/tss-lib
 
 replace github.com/IBM/mathlib => github.com/IBM/mathlib v0.0.3-0.20230822192135-eacb031f2534
+
+replace github.com/IBM/TSS/mpc/binance/ecdsa => ../mpc/binance/ecdsa

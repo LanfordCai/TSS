@@ -1,8 +1,6 @@
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/IBM/TSS v0.0.0-20230829210007-7d14382e6520 h1:yNUHLKPCUy3r8jTtHgL1XLI/Ls9p9pqPyufgn2u/Nxk=
 github.com/IBM/TSS v0.0.0-20230829210007-7d14382e6520/go.mod h1:wGdNkjuFEVFx96kkq8at32/6jx4mxK/v1Uuv2NXL6KE=
-github.com/IBM/TSS/mpc/binance/ecdsa v0.0.0-20240611111247-16b157e568d0 h1:Q9oMjYdeB+H3WB9Z/ttZB6RdQHe5emjOe5aHJ6InByU=
-github.com/IBM/TSS/mpc/binance/ecdsa v0.0.0-20240611111247-16b157e568d0/go.mod h1:aP9kkLkvsH/On3M//KMeW5AggWM/M9tmlH2sJBcvuUM=
 github.com/IBM/TSS/mpc/binance/eddsa v0.0.0-20240611111247-16b157e568d0 h1:iIWm2HGrEWOYyMuDfYxk4sbl5gHeuoLQRpKk0d2ipPg=
 github.com/IBM/TSS/mpc/binance/eddsa v0.0.0-20240611111247-16b157e568d0/go.mod h1:KfbbiP8Ap8OzAu+tD6n703MprQ1AU1VQeGy6yotn2J8=
 github.com/IBM/TSS/mpc/ps v0.0.0-20230926080141-a58335329fb1 h1:WFWQhxrroXIXSUr5jvGdfAf9CPgRJG7tJ13zSWDeEKQ=
