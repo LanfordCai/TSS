@@ -62,11 +62,12 @@ type Logger interface {
 }
 
 type PartyConnectionConfig struct {
-	AuthFunc func(tlsContext []byte) Handshake
-	Domain   string
-	Id       int
-	Endpoint string
-	TlsCAs   *x509.CertPool
+	AuthFunc   func(tlsContext []byte) Handshake
+	Domain     string
+	Id         int
+	Endpoint   string
+	TlsCAs     *x509.CertPool
+	ClientCert tls.Certificate
 }
 
 type errReporter func(string, ...interface{})
